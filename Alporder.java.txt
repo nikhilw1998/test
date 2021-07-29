@@ -34,4 +34,3 @@ public class Alporder
         }
         System.out.print(names[n - 1]);
     }
-}
